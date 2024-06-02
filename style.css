@@ -8,6 +8,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 #player {
@@ -48,15 +49,50 @@ audio {
 
 h5 {
   color: #6750b2;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: bold;
   margin: 0;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 12px;
+  
 }
 
+.tv {
+  width: 100px;
+ 
+  
+}
 
+.imagem {
+  width: 1000;
+  display: flex;
+  align-items: center;
+  margin-top: 0%;
+  justify-content:space-around;
+  padding: 2px;
+}
 
+.artist {
 
+  color: ;
+  font-size: 10px;
+  font-weight: bold;
+  margin: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 2px;
+
+}
+
+.copyright {
+width: 100%;
+display: flex;
+justify-content: center;
+align-content: center;
+
+}
+
+.lions {
+  width: 150px;
